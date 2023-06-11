@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 70px;
+}
+
+.second_container{
+    margin-top: -20px;
+}
+
+
+.txt_container{
+    width: 350px;
+    font-size: 25px;
+}
+
+.img_container{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-around;
+}

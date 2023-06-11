@@ -1,0 +1,22 @@
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 35px;
+}
+.text_container{
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+}
+.text_container > a{
+    text-decoration: none;
+}
+
+.btn{
+    background: #b8e0e5;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
